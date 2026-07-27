@@ -28,3 +28,19 @@ Clone the repository:
 
 ```bash
 git clone YOUR_REPOSITORY_URL
+cd flyrank_assignment1
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+### Running the Project
+
+Start the application:
+
+```bash
+npm start
+```
